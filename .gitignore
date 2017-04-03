@@ -67,3 +67,9 @@ vignettes/*.pdf
 # End of https://www.gitignore.io/api/r,osx
 
 # Generated using ignr.py - github.com/Antrikshy/ignr.py
+
+# Additional Configuration
+
+# *.csv data file
+*.csv
+
